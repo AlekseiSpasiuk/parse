@@ -1,0 +1,470 @@
+,href,jobs_title,min_price,max_price,currency,company_name,company_url,city
+0,https://hh.ru/vacancy/47041138?from=vacancy_search_list&query=python,Стажер Big Data Engineer,,,,ISsoft Solutions,https://hh.ru/employer/774571,Минск
+1,https://hh.ru/vacancy/46893200?from=vacancy_search_list&query=python,Python developer,,,,Oxagile,https://hh.ru/employer/763432,"Минск, Михалово"
+2,https://hh.ru/vacancy/45610689?from=vacancy_search_list&query=python,Python developer,2500.0,3200.0, USD,B2Broker Москва,https://hh.ru/employer/2234168?dpt=2234168-2234168-msk,Минск
+3,https://hh.ru/vacancy/46251657?from=vacancy_search_list&query=python,Python-разработчик,2300.0,, USD,УП ВЕБ СОЛЮШЕНС,https://hh.ru/employer/833818,Минск
+4,https://hh.ru/vacancy/46774132?from=vacancy_search_list&query=python,Инженер-программист // Python Dyveloper,3000.0,5000.0, бел. руб.,ООО Асторекс Компани,https://hh.ru/employer/3022118,Минск
+5,https://hh.ru/vacancy/46661373?from=vacancy_search_list&query=python,QA Automation Python,1500.0,2800.0, USD,ООО СофтКорп,https://hh.ru/employer/3981703,Минск
+6,https://hh.ru/vacancy/47028680?from=vacancy_search_list&query=python,Fullstack Python Developer,3000.0,, USD,Nitka Technologies,https://hh.ru/employer/939874,Минск
+7,https://hh.ru/vacancy/46309315?from=vacancy_search_list&query=python,Junior+ Python Back End Developer,,2000.0, USD,ООО Проект Дилбай,https://hh.ru/employer/2052321,Минск
+8,https://hh.ru/vacancy/46913040?from=vacancy_search_list&query=python,Junior Data Analyst,,,,ООО ХЭППИ ГЕЙМС СТУДИО,https://hh.ru/employer/2832681,Минск
+9,https://hh.ru/vacancy/46244699?from=vacancy_search_list&query=python,Python Developer,,,,GeliosSoft,https://hh.ru/employer/1418240,Минск
+10,https://hh.ru/vacancy/44270356?from=vacancy_search_list&query=python,Python developer,,,,Innowise Group / Фабрика инноваций и решений,https://hh.ru/employer/1858119,"Минск, Площадь Якуба Коласа"
+11,https://hh.ru/vacancy/45792077?from=vacancy_search_list&query=python,Junior Data Analyst,,,,ООО Изибрэйн,https://hh.ru/employer/2509716,"Минск, Молодежная"
+12,https://hh.ru/vacancy/46597403?from=vacancy_search_list&query=python,Python Lead Developer,2000.0,3000.0, USD,E-comet,https://hh.ru/employer/5557093,Минск
+13,https://hh.ru/vacancy/46554790?from=vacancy_search_list&query=python,Junior/Middle Python Back End Developer,,2000.0, USD,ООО Проект Дилбай,https://hh.ru/employer/2052321,Минск
+14,https://hh.ru/vacancy/46863563?from=vacancy_search_list&query=python,Python Engineer (Platform),,,,"Wargaming, Minsk (Game Stream)",https://hh.ru/employer/662769?dpt=662769-662769-minsk,Минск
+15,https://hh.ru/vacancy/46896275?from=vacancy_search_list&query=python,Python Data Engineer,3000.0,, USD,RocketData,https://hh.ru/employer/3591220,"Минск, Восток и еще 1 "
+16,https://hh.ru/vacancy/46156454?from=vacancy_search_list&query=python,Middle Python Developer,,,,Иностр. п. Admitad,https://hh.ru/employer/921918,"Минск, Площадь Ленина"
+17,https://hh.ru/vacancy/47010257?from=vacancy_search_list&query=python,Python Developer,,,,Andersen,https://hh.ru/employer/851604,Минск
+18,https://hh.ru/vacancy/46898475?from=vacancy_search_list&query=python,Senior python developer/MVP team,3500.0,, USD,RocketData,https://hh.ru/employer/3591220,"Минск, Восток и еще 1 "
+19,https://hh.ru/vacancy/45688364?from=vacancy_search_list&query=python,Machine Learning Engineer (Data Scientist),,,,ООО Лайфтех,https://hh.ru/employer/4199338,Минск
+20,https://hh.ru/vacancy/46915523?from=vacancy_search_list&query=python,"Python Automated Testing, Trainee",,,,"EPAM Systems, Inc.",https://hh.ru/employer/632462,Минск
+21,https://hh.ru/vacancy/44686558?from=vacancy_search_list&query=python,Python/Go Developer (Central Services ),,,,"Wargaming, Minsk (Game Stream)",https://hh.ru/employer/662769?dpt=662769-662769-minsk,Минск
+22,https://hh.ru/vacancy/44994494?from=vacancy_search_list&query=python,Python Web Developer at Tripledot Studios,,,,ООО Он Зэ Спот Девелопмент,https://hh.ru/employer/2509056,Минск
+23,https://hh.ru/vacancy/46885769?from=vacancy_search_list&query=python,Software Test Engineer (Python),,,,ООО СК хайникс мемори солюшнс Восточная Европа,https://hh.ru/employer/1712281,"Минск, Немига"
+24,https://hh.ru/vacancy/46897959?from=vacancy_search_list&query=python,Senior python developer/Boost team,3500.0,, USD,RocketData,https://hh.ru/employer/3591220,"Минск, Восток и еще 1 "
+25,https://hh.ru/vacancy/45449932?from=vacancy_search_list&query=python,Python Engineer,,,,ООО Инспекторио Бел,https://hh.ru/employer/4270886,"Минск, Немига"
+26,https://hh.ru/vacancy/46989207?from=vacancy_search_list&query=python,Старший Программист Python (Senior/Middle),2500.0,, USD,ООО Телеком-ВИСТ,https://hh.ru/employer/1960996,Минск
+27,https://hh.ru/vacancy/46524369?from=vacancy_search_list&query=python,DevOps Engineer (Python),,,,Qulix Systems,https://hh.ru/employer/829490,"Минск, Спортивная"
+28,https://hh.ru/vacancy/46758340?from=vacancy_search_list&query=python,Python Senior/TL,,,,ООО Неро Электроникс,https://hh.ru/employer/227572,Минск
+29,https://hh.ru/vacancy/46336688?from=vacancy_search_list&query=python,Senior Python developer,,,,ООО Сенсотроника,https://hh.ru/employer/2806650,"Минск, Купаловская и еще 1 "
+30,https://hh.ru/vacancy/46813280?from=vacancy_search_list&query=python,Программист Python Django,,,,УП ИЦТ ГОРИЗОНТ,https://hh.ru/employer/1076380,"Минск, Площадь Победы"
+31,https://hh.ru/vacancy/46847207?from=vacancy_search_list&query=python,Senior Python Developer,,,,iTechArt Group,https://hh.ru/employer/666194,"Минск, Институт Культуры"
+32,https://hh.ru/vacancy/46813490?from=vacancy_search_list&query=python,Разработчик SQL/Python,,,,Social Discovery Ventures,https://hh.ru/employer/9849?dpt=sdv-9849-sdv,"Минск, Восток и еще 1 "
+33,https://hh.ru/vacancy/46789639?from=vacancy_search_list&query=python,Senior python developer | Sync team,3500.0,, USD,RocketData,https://hh.ru/employer/3591220,"Минск, Восток и еще 1 "
+34,https://hh.ru/vacancy/45734627?from=vacancy_search_list&query=python,Senior Python Developer,,,,Innowise Group / Фабрика инноваций и решений,https://hh.ru/employer/1858119,Минск
+35,https://hh.ru/vacancy/46789109?from=vacancy_search_list&query=python,Senior python developer | Feedback team,3500.0,, USD,RocketData,https://hh.ru/employer/3591220,Минск
+36,https://hh.ru/vacancy/46156486?from=vacancy_search_list&query=python,Senior Python Разработчик,,,,Иностр. п. Admitad,https://hh.ru/employer/921918,Минск
+37,https://hh.ru/vacancy/46061485?from=vacancy_search_list&query=python,Python Developer,,,,Scand,https://hh.ru/employer/604390,Минск
+38,https://hh.ru/vacancy/46917291?from=vacancy_search_list&query=python,Senior Python Developer,,,,Exadel,https://hh.ru/employer/747381,Минск
+39,https://hh.ru/vacancy/46751925?from=vacancy_search_list&query=python,Python Developer (Flask),,,,Nitka Technologies,https://hh.ru/employer/939874,Минск
+40,https://hh.ru/vacancy/46306400?from=vacancy_search_list&query=python,Machine Learning Engineer,,,,21vek.by,https://hh.ru/employer/763400,Минск
+41,https://hh.ru/vacancy/44259173?from=vacancy_search_list&query=python,Senior Python Developer for Imunify [Remote],,,,Cloud Linux,https://hh.ru/employer/1245452,Минск
+42,https://hh.ru/vacancy/45276813?from=vacancy_search_list&query=python,Python Developer,,,,УП Руна Системс,https://hh.ru/employer/1395715,Минск
+43,https://hh.ru/vacancy/45428460?from=vacancy_search_list&query=python,Python Developer,,,,iTechArt Group,https://hh.ru/employer/666194,"Минск, Институт Культуры"
+44,https://hh.ru/vacancy/46052426?from=vacancy_search_list&query=python,Middle Python Developer for CloudLinux OS [Remote],,,,Cloud Linux,https://hh.ru/employer/1245452,Минск
+45,https://hh.ru/vacancy/46638197?from=vacancy_search_list&query=python,Python системный программист,,300000.0, руб.,ООО АйТиКвик,https://hh.ru/employer/2639497,Минск
+46,https://hh.ru/vacancy/46674102?from=vacancy_search_list&query=python,Data Scientist/Python Developer (remote),,,,Nitka Technologies,https://hh.ru/employer/939874,Минск
+47,https://hh.ru/vacancy/46661358?from=vacancy_search_list&query=python,Python Developer,,,,Belitsoft,https://hh.ru/employer/754682,Минск
+48,https://hh.ru/vacancy/46826981?from=vacancy_search_list&query=python,Python Developer,,,,LeverX International,https://hh.ru/employer/759873,Минск
+49,https://hh.ru/vacancy/46342298?from=vacancy_search_list&query=python,Middle/Senior Python Developer for AlmaLinux [Remote],,,,Cloud Linux,https://hh.ru/employer/1245452,Минск
+50,https://hh.ru/vacancy/44391852?from=vacancy_search_list&query=python,Senior Python Developer,,,,Altoros Bel,https://hh.ru/employer/570938,"Минск, Кунцевщина"
+51,https://hh.ru/vacancy/46252849?from=vacancy_search_list&query=python,Middle developer C/Python on Linux - KernelCare [Remote],,,,Cloud Linux,https://hh.ru/employer/1245452,Минск
+52,https://hh.ru/vacancy/46507909?from=vacancy_search_list&query=python,Python Data Scientist,,,,Andersen,https://hh.ru/employer/851604,"Минск, Немига"
+53,https://hh.ru/vacancy/46480444?from=vacancy_search_list&query=python,Python Engineer,3500.0,6000.0, USD,Августинек Майя,https://hh.ru/employer/5588094,Минск
+54,https://hh.ru/vacancy/46636087?from=vacancy_search_list&query=python,Ментор по Python,,,,ООО Оверван,https://hh.ru/employer/4650979,"Минск, Академия наук"
+55,https://hh.ru/vacancy/44343327?from=vacancy_search_list&query=python,Middle Python developer,,,,IBA Group,https://hh.ru/employer/42040,"Минск, Уручье"
+56,https://hh.ru/vacancy/46440583?from=vacancy_search_list&query=python,Программист на Python,960.0,1350.0, бел. руб.,Административный Ресурс,https://hh.ru/employer/1127354,Минск
+57,https://hh.ru/vacancy/46317369?from=vacancy_search_list&query=python,Junior/Middle Python developer,,,,ООО Эй Джи Софтваре,https://hh.ru/employer/3641035,Минск
+58,https://hh.ru/vacancy/44773884?from=vacancy_search_list&query=python,Python developer/Python Data Engineer Middle/Senior,1500.0,4000.0, USD,ООО Флэтлоджик,https://hh.ru/employer/2324446,Минск
+59,https://hh.ru/vacancy/46331257?from=vacancy_search_list&query=python,Python Developer,,,,ООО СолбегСофт,https://hh.ru/employer/766249,Минск
+60,https://hh.ru/vacancy/46410749?from=vacancy_search_list&query=python,Python developer (защита от DDoS-атак),,,,Itransition,https://hh.ru/employer/204511,Минск
+61,https://hh.ru/vacancy/46423378?from=vacancy_search_list&query=python,Senior Python Developer,,,,GP Solutions,https://hh.ru/employer/221933,"Минск, Молодежная"
+62,https://hh.ru/vacancy/39892371?from=vacancy_search_list&query=python,Python Developer,,,,Девхаб,https://hh.ru/employer/1121008,Минск
+63,https://hh.ru/vacancy/44367795?from=vacancy_search_list&query=python,Python Developer,,,,ООО СК хайникс мемори солюшнс Восточная Европа,https://hh.ru/employer/1712281,"Минск, Немига"
+64,https://hh.ru/vacancy/46385577?from=vacancy_search_list&query=python,Middle/Senior Python Developer,,,,ООО Кернеликс / Kernelics,https://hh.ru/employer/4877795,"Минск, Восток и еще 1 "
+65,https://hh.ru/vacancy/46338325?from=vacancy_search_list&query=python,Back-end Software Engineer (Python),,,,ООО СВАПС системз,https://hh.ru/employer/2650651,"Минск, Петровщина"
+66,https://hh.ru/vacancy/45160142?from=vacancy_search_list&query=python,Middle/Senior Python Developer,,,,Belitsoft,https://hh.ru/employer/754682,Минск
+67,https://hh.ru/vacancy/46405295?from=vacancy_search_list&query=python,BackEnd Python Developer Mid+,,,,ООО Апподил,https://hh.ru/employer/3603119,Минск
+68,https://hh.ru/vacancy/46297826?from=vacancy_search_list&query=python,Python Software Engineer,140000.0,, руб.,Elastoo,https://hh.ru/employer/4437413,Минск
+69,https://hh.ru/vacancy/46891038?from=vacancy_search_list&query=python,Python Developer,,,,ООО Сампад,https://hh.ru/employer/1535743,Минск
+70,https://hh.ru/vacancy/46814641?from=vacancy_search_list&query=python,Программист Python,,,,Брайт Солюшенз,https://hh.ru/employer/1391634,"Минск, Пушкинская"
+71,https://hh.ru/vacancy/45839229?from=vacancy_search_list&query=python,Machine Learning Engineer,3000.0,, USD,ООО Априори групп,https://hh.ru/employer/5214704,Минск
+72,https://hh.ru/vacancy/46271924?from=vacancy_search_list&query=python,Junior Data Scientist / Machine Learning Engineer,,,,ООО Фрешли Дата,https://hh.ru/employer/5567609,Минск
+73,https://hh.ru/vacancy/47001426?from=vacancy_search_list&query=python,Senior Deep Learning Engineer,,,,ООО IHS Global,https://hh.ru/employer/841087,Минск
+74,https://hh.ru/vacancy/46964846?from=vacancy_search_list&query=python,Веб-аналитик,,,,ООО ЮрСпектр,https://hh.ru/employer/584934,Минск
+75,https://hh.ru/vacancy/46984575?from=vacancy_search_list&query=python,Test Automation Engineer,,,,APALON,https://hh.ru/employer/592645,"Минск, Вокзальная и еще 2 "
+76,https://hh.ru/vacancy/45507396?from=vacancy_search_list&query=python,Machine Learning Team Lead,,,,APALON,https://hh.ru/employer/592645,"Минск, Вокзальная и еще 2 "
+77,https://hh.ru/vacancy/47001530?from=vacancy_search_list&query=python,Principal Software Engineer,,,,ООО IHS Global,https://hh.ru/employer/841087,Минск
+78,https://hh.ru/vacancy/46992276?from=vacancy_search_list&query=python,DevOps Academy/trainee,,,,"Плэйтика Бел, ИООО",https://hh.ru/employer/1105861,Минск
+79,https://hh.ru/vacancy/47025444?from=vacancy_search_list&query=python,IOS разработчик,2000.0,, USD,Ramotion,https://hh.ru/employer/812040,Минск
+80,https://hh.ru/vacancy/47041081?from=vacancy_search_list&query=python,Front-end developer,,,,"А1. Информационные технологии, телеком",https://hh.ru/employer/778329?dpt=778329-778329-01,Минск
+81,https://hh.ru/vacancy/47049503?from=vacancy_search_list&query=python,Game Analyst (World Of Tanks Blitz),,,,"Wargaming, Moscow",https://hh.ru/employer/662769?dpt=662769-662769-moscow,Минск
+82,https://hh.ru/vacancy/46924289?from=vacancy_search_list&query=python,System Architect,,,,"Плэйтика Бел, ИООО",https://hh.ru/employer/1105861,Минск
+83,https://hh.ru/vacancy/43288547?from=vacancy_search_list&query=python,Инженер-программист группы отчетности и операционной поддержки (BI),,,,"А1. Информационные технологии, телеком",https://hh.ru/employer/778329?dpt=778329-778329-01,Минск
+84,https://hh.ru/vacancy/45121930?from=vacancy_search_list&query=python,DevOps Engineer (CI\CD),,,,"А1. Информационные технологии, телеком",https://hh.ru/employer/778329?dpt=778329-778329-01,Минск
+85,https://hh.ru/vacancy/43602726?from=vacancy_search_list&query=python,Billing Engineer,,,,"А1. Информационные технологии, телеком",https://hh.ru/employer/778329?dpt=778329-778329-01,Минск
+86,https://hh.ru/vacancy/46895868?from=vacancy_search_list&query=python,Linux System Engineer,,,,ID Finance,https://hh.ru/employer/2227394,"Минск, Уручье"
+87,https://hh.ru/vacancy/46896643?from=vacancy_search_list&query=python,IT Recruiter,,,,Qulix Systems,https://hh.ru/employer/829490,"Минск, Фрунзенская"
+88,https://hh.ru/vacancy/46894159?from=vacancy_search_list&query=python,Engineering Manager (Opportunity 2),,,,Oxagile,https://hh.ru/employer/763432,Минск
+89,https://hh.ru/vacancy/46862751?from=vacancy_search_list&query=python,SecOps Engineer,,,,"Плэйтика Бел, ИООО",https://hh.ru/employer/1105861,Минск
+90,https://hh.ru/vacancy/45809010?from=vacancy_search_list&query=python,Junior/ Middle Front-End Software Developer в Python отдел,,,,Innowise Group / Фабрика инноваций и решений,https://hh.ru/employer/1858119,Минск
+91,https://hh.ru/vacancy/46165935?from=vacancy_search_list&query=python,Senior QA Engineer (Python),,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+92,https://hh.ru/vacancy/46480763?from=vacancy_search_list&query=python,Инженер-программист C++/Python (Mobile robotics engineer Middle),,,,ООО ЛАЦИТ - Лаборатория цифровых технологий,https://hh.ru/employer/3299238,"Минск, Площадь Франтишка Богушевича"
+93,https://hh.ru/vacancy/44608458?from=vacancy_search_list&query=python,QA Automation Engineer (Python),,,,ООО ИТС Партнёр,https://hh.ru/employer/797558,"Минск, Каменная Горка"
+94,https://hh.ru/vacancy/46302949?from=vacancy_search_list&query=python,Data Engineer,,,,21vek.by,https://hh.ru/employer/763400,Минск
+95,https://hh.ru/vacancy/45809812?from=vacancy_search_list&query=python,Senior Front-End Software Developer в Python отдел,,,,Innowise Group / Фабрика инноваций и решений,https://hh.ru/employer/1858119,Минск
+96,https://hh.ru/vacancy/46897121?from=vacancy_search_list&query=python,Data analyst,,,,ООО Бануба Девелопмент,https://hh.ru/employer/2621624,Минск
+97,https://hh.ru/vacancy/46306418?from=vacancy_search_list&query=python,Data Analyst,,,,21vek.by,https://hh.ru/employer/763400,Минск
+98,https://hh.ru/vacancy/45193239?from=vacancy_search_list&query=python,Middle/Senior Data Analyst,,,,ООО Изибрэйн,https://hh.ru/employer/2509716,"Минск, Молодежная"
+99,https://hh.ru/vacancy/46599433?from=vacancy_search_list&query=python,Data Engineer,,,,ООО АйтиРекс Групп,https://hh.ru/employer/877747,"Минск, Институт Культуры"
+100,https://hh.ru/vacancy/41023652?from=vacancy_search_list&query=python,Аналитик данных,,,,ЗАО Банк ВТБ (Беларусь). IT-направление ,https://hh.ru/employer/749858?dpt=749858-749858-2,Минск
+101,https://hh.ru/vacancy/45809937?from=vacancy_search_list&query=python,QA Automation engineer (JS),,,,ООО МАКСБИТСОЛЮШЕН,https://hh.ru/employer/4525306,"Минск, Академия наук и еще 1 "
+102,https://hh.ru/vacancy/46637272?from=vacancy_search_list&query=python,Marketing Data Analyst,,,,ООО Воннаплэй / WannaPlay,https://hh.ru/employer/4607573,"Минск, Молодежная"
+103,https://hh.ru/vacancy/46989354?from=vacancy_search_list&query=python,Middle Data Analyst,,,,APPSULOVE,https://hh.ru/employer/3301866,Минск
+104,https://hh.ru/vacancy/41557398?from=vacancy_search_list&query=python,Data Integration Engineer,,,,"Wargaming, Minsk (Game Stream)",https://hh.ru/employer/662769?dpt=662769-662769-minsk,Минск
+105,https://hh.ru/vacancy/45707921?from=vacancy_search_list&query=python,Разработчик в группу Robotics Process Automation,,,,EY,https://hh.ru/employer/788350,Минск
+106,https://hh.ru/vacancy/43286758?from=vacancy_search_list&query=python,Senior Data Analyst / Web Analytics,,,,ООО Рамп АйКью,https://hh.ru/employer/4925337,"Минск, Академия наук и еще 1 "
+107,https://hh.ru/vacancy/45320873?from=vacancy_search_list&query=python,Data Analyst,,,,Skywind Group,https://hh.ru/employer/741904,"Минск, Петровщина"
+108,https://hh.ru/vacancy/46535808?from=vacancy_search_list&query=python,Data Analyst,,,,ООО Инспекторио Бел,https://hh.ru/employer/4270886,"Минск, Немига"
+109,https://hh.ru/vacancy/47049985?from=vacancy_search_list&query=python,Senior FullStack developer (React/Python),,,,ООО ВарекорпБел,https://hh.ru/employer/767533,Минск
+110,https://hh.ru/vacancy/44603951?from=vacancy_search_list&query=python,Senior QA engineer (back-end),,,,Tango Me,https://hh.ru/employer/3266823,Минск
+111,https://hh.ru/vacancy/46914576?from=vacancy_search_list&query=python,QA Automation Engineer (C#),,,,Andersen,https://hh.ru/employer/851604,Минск
+112,https://hh.ru/vacancy/46269345?from=vacancy_search_list&query=python,Data engineer/Data administrator [Remote],,,,Cloud Linux,https://hh.ru/employer/1245452,Минск
+113,https://hh.ru/vacancy/46334057?from=vacancy_search_list&query=python,DevOps Engineer,,,,"FASHION HOUSE, группа компаний",https://hh.ru/employer/762254,"Минск, Купаловская и еще 1 "
+114,https://hh.ru/vacancy/46299785?from=vacancy_search_list&query=python,Математик-исследователь (моделирование),,,,ООО ЛАЦИТ - Лаборатория цифровых технологий,https://hh.ru/employer/3299238,"Минск, Площадь Франтишка Богушевича"
+115,https://hh.ru/vacancy/46427419?from=vacancy_search_list&query=python,SRE (Data) Engineer,,,,ООО Tealium,https://hh.ru/employer/4600888,Минск
+116,https://hh.ru/vacancy/46560855?from=vacancy_search_list&query=python,DevOps Engineer,,,,ООО ФоксТри,https://hh.ru/employer/4422400,"Минск, Молодежная"
+117,https://hh.ru/vacancy/42983353?from=vacancy_search_list&query=python,DevOps engineer,,,,ООО ВЭБ Технологии,https://hh.ru/employer/3333265,Минск
+118,https://hh.ru/vacancy/45657077?from=vacancy_search_list&query=python,DevOps Engineer,2000.0,, USD,TW Global Services SA,https://hh.ru/employer/4441986,Минск
+119,https://hh.ru/vacancy/46509712?from=vacancy_search_list&query=python,DevOps Engineer,,,,ООО Авентус ИТ,https://hh.ru/employer/3562141,Минск
+120,https://hh.ru/vacancy/46557279?from=vacancy_search_list&query=python,Инженер-программист (С++),,,,ОАО АЛЕВКУРП,https://hh.ru/employer/889685,Минск
+121,https://hh.ru/vacancy/45453807?from=vacancy_search_list&query=python,Senior Data Scientist,,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+122,https://hh.ru/vacancy/47003510?from=vacancy_search_list&query=python,Data Analyst,,,,ООО Ридотто,https://hh.ru/employer/5613140,Минск
+123,https://hh.ru/vacancy/46892560?from=vacancy_search_list&query=python,C/С++ Software Engineer,,,,ООО Центр Разработки ПИ ЭС ЭЙ,https://hh.ru/employer/557176,Минск
+124,https://hh.ru/vacancy/46427881?from=vacancy_search_list&query=python,С++ VoIP Software Engineer,,,,Viber,https://hh.ru/employer/1005038,Минск
+125,https://hh.ru/vacancy/46965203?from=vacancy_search_list&query=python,C++ developer / SDK Support Engineer,,,,ООО Бануба Девелопмент,https://hh.ru/employer/2621624,Минск
+126,https://hh.ru/vacancy/45610408?from=vacancy_search_list&query=python,DevOps Specialist,,,,ООО Лайфтех,https://hh.ru/employer/4199338,Минск
+127,https://hh.ru/vacancy/46863800?from=vacancy_search_list&query=python,DevOps Engineer,,,,Qulix Systems,https://hh.ru/employer/829490,"Минск, Фрунзенская"
+128,https://hh.ru/vacancy/42850681?from=vacancy_search_list&query=python,DevOps engineer,,,,Tango Me,https://hh.ru/employer/3266823,Минск
+129,https://hh.ru/vacancy/46927627?from=vacancy_search_list&query=python,Automation QA Инженер,4000.0,6000.0, бел. руб.,Белтекс Оптик | Yukon Advanced Optics Worldwide,https://hh.ru/employer/908364,Минск
+130,https://hh.ru/vacancy/44969022?from=vacancy_search_list&query=python,QA Automation Engineer (OpenWave),,,,ZiMAD,https://hh.ru/employer/780623,Минск
+131,https://hh.ru/vacancy/45464664?from=vacancy_search_list&query=python,Automation QA Engineer,,,,ООО Изибрэйн,https://hh.ru/employer/2509716,"Минск, Молодежная"
+132,https://hh.ru/vacancy/46598383?from=vacancy_search_list&query=python,Researcher in Mathematical Modeling and Algorithms,,,,ООО СК хайникс мемори солюшнс Восточная Европа,https://hh.ru/employer/1712281,"Минск, Немига"
+133,https://hh.ru/vacancy/46441026?from=vacancy_search_list&query=python,Senior DevOps Engineer,,,,Affise Inc.,https://hh.ru/employer/5000773,Минск
+134,https://hh.ru/vacancy/47005817?from=vacancy_search_list&query=python,DevOps Engineer Middle+ (Azure Stack),,,,Айти Эксперт,https://hh.ru/employer/755559,Минск
+135,https://hh.ru/vacancy/46064090?from=vacancy_search_list&query=python,Web-разработчик / Full-stack Web-developer (Фулстак разработчик),,4000.0, бел. руб.,ООО Веб Фокус,https://hh.ru/employer/3555596,Минск
+136,https://hh.ru/vacancy/46470132?from=vacancy_search_list&query=python,Software developer (C++/Core),,,,ООО Вочи,https://hh.ru/employer/4012555,"Минск, Первомайская и еще 1 "
+137,https://hh.ru/vacancy/45964017?from=vacancy_search_list&query=python,Junior Kernel Developer - KernelCare [Remote],,,,Cloud Linux,https://hh.ru/employer/1245452,Минск
+138,https://hh.ru/vacancy/46364657?from=vacancy_search_list&query=python,Workflow Engineer,,,,Syberry CIS,https://hh.ru/employer/1196575,"Минск, Институт Культуры"
+139,https://hh.ru/vacancy/44429307?from=vacancy_search_list&query=python,C++ developer,,,,ООО Бануба Девелопмент,https://hh.ru/employer/2621624,"Минск, Немига"
+140,https://hh.ru/vacancy/45189465?from=vacancy_search_list&query=python,DevOps Engineer/SRE,,,,ООО Инспекторио Бел,https://hh.ru/employer/4270886,"Минск, Немига"
+141,https://hh.ru/vacancy/43147212?from=vacancy_search_list&query=python,Android Developer/ SDK support engineer,,,,ООО Бануба Девелопмент,https://hh.ru/employer/2621624,"Минск, Немига"
+142,https://hh.ru/vacancy/46986834?from=vacancy_search_list&query=python,"Преподаватель IT дисциплин в Международную школу программирования ""Алгоритмика""",1500.0,3000.0, бел. руб.,Алгоритмика Б,https://hh.ru/employer/5577009,"Минск, Фрунзенская"
+143,https://hh.ru/vacancy/47047532?from=vacancy_search_list&query=python,DBA / Администратор баз данных (PostgreSQL),3000.0,4000.0, бел. руб.,ООО МАКСБИТСОЛЮШЕН,https://hh.ru/employer/4525306,"Минск, Академия наук и еще 1 "
+144,https://hh.ru/vacancy/46965194?from=vacancy_search_list&query=python,Web developer,,,,ООО Бануба Девелопмент,https://hh.ru/employer/2621624,Минск
+145,https://hh.ru/vacancy/45824673?from=vacancy_search_list&query=python,Product Analyst,,,,BGSoft,https://hh.ru/employer/3313464,Минск
+146,https://hh.ru/vacancy/46720056?from=vacancy_search_list&query=python,Junior QA Performance Engineer,,,,"Wargaming, Minsk (Game Stream)",https://hh.ru/employer/662769?dpt=662769-662769-minsk,Минск
+147,https://hh.ru/vacancy/45685555?from=vacancy_search_list&query=python,Rust Developer,2000.0,, USD,TW Global Services SA,https://hh.ru/employer/4441986,Минск
+148,https://hh.ru/vacancy/46306349?from=vacancy_search_list&query=python,Системный администратор Linux,,,,hoster.by,https://hh.ru/employer/3701236,Минск
+149,https://hh.ru/vacancy/46753757?from=vacancy_search_list&query=python,Middle+ Программист Embedded С/C++,,,,ООО Неро Электроникс,https://hh.ru/employer/227572,Минск
+150,https://hh.ru/vacancy/46387983?from=vacancy_search_list&query=python,"Software Engineer (Tools, WoTBlitz)",,,,"Wargaming, Minsk (Game Stream)",https://hh.ru/employer/662769?dpt=662769-662769-minsk,Минск
+151,https://hh.ru/vacancy/46510103?from=vacancy_search_list&query=python,Back-end Developer (Platform Team),,,,Gismart,https://hh.ru/employer/2389722,Минск
+152,https://hh.ru/vacancy/45958853?from=vacancy_search_list&query=python,Senior Go Developer for Kubernetes [Remote],,,,Cloud Linux,https://hh.ru/employer/1245452,Минск
+153,https://hh.ru/vacancy/46099033?from=vacancy_search_list&query=python,Senior QA Engineer,,,,ООО Инспекторио Бел,https://hh.ru/employer/4270886,"Минск, Немига"
+154,https://hh.ru/vacancy/45545162?from=vacancy_search_list&query=python,Senior C++ Developer,,,,ООО G5 Entertainment AB,https://hh.ru/employer/1544241,Минск
+155,https://hh.ru/vacancy/46261073?from=vacancy_search_list&query=python,Java Backend Developer (Senior),,,,SaM Solutions Самсолюшнс,https://hh.ru/employer/745670,Минск
+156,https://hh.ru/vacancy/45537546?from=vacancy_search_list&query=python,QA Engineer,,,,ООО Инспекторио Бел,https://hh.ru/employer/4270886,Минск
+157,https://hh.ru/vacancy/47014828?from=vacancy_search_list&query=python,Embedded Software Engineer,,,,Softeq Development,https://hh.ru/employer/633793,"Минск, Пушкинская"
+158,https://hh.ru/vacancy/44253869?from=vacancy_search_list&query=python,QA Performance Engineer,,,,"Wargaming, Minsk (Game Stream)",https://hh.ru/employer/662769?dpt=662769-662769-minsk,Минск
+159,https://hh.ru/vacancy/46113480?from=vacancy_search_list&query=python,"Senior Programmer, Game (C++)/Ведущий программист C++",,,,Playrix,https://hh.ru/employer/114448,Минск
+160,https://hh.ru/vacancy/46809439?from=vacancy_search_list&query=python,Middle/Senior Go developer for network security project,,,,Cloud Linux,https://hh.ru/employer/1245452,Минск
+161,https://hh.ru/vacancy/46377967?from=vacancy_search_list&query=python,CI/CD Engineer,,,,Skywind Group,https://hh.ru/employer/741904,"Минск, Петровщина"
+162,https://hh.ru/vacancy/42702891?from=vacancy_search_list&query=python,Embedded Software Engineer,1600.0,2900.0, EUR,ООО НАВИГАЦИОННЫЕ СИСТЕМЫ И РЕШЕНИЯ,https://hh.ru/employer/2431582,Минск
+163,https://hh.ru/vacancy/46798309?from=vacancy_search_list&query=python,Junior+/Middle Developer,500.0,1200.0, USD,ЮМАСОФТ,https://hh.ru/employer/1135351,"Минск, Грушевка"
+164,https://hh.ru/vacancy/47041839?from=vacancy_search_list&query=python,Software Engineer (Backend),,,,ZiMAD,https://hh.ru/employer/780623,Минск
+165,https://hh.ru/vacancy/46297592?from=vacancy_search_list&query=python,"Системный администратор Linux/(Helpdesk, Level 2).",,,,ActiveCloud,https://hh.ru/employer/606211,Минск
+166,https://hh.ru/vacancy/45151611?from=vacancy_search_list&query=python,Junior Frontend Developer,,,,ООО Сампад,https://hh.ru/employer/1535743,Минск
+167,https://hh.ru/vacancy/45970119?from=vacancy_search_list&query=python,C++ Gameplay Developer,,,,AWEM,https://hh.ru/employer/859391,Минск
+168,https://hh.ru/vacancy/45964536?from=vacancy_search_list&query=python,Senior Kernel Developer - KernelCare [Remote],,,,Cloud Linux,https://hh.ru/employer/1245452,Минск
+169,https://hh.ru/vacancy/47050267?from=vacancy_search_list&query=python,Senior System engineer,,,,21vek.by,https://hh.ru/employer/763400,Минск
+170,https://hh.ru/vacancy/46343312?from=vacancy_search_list&query=python,Инженер (Linux администратор),,,,ООО Лайфтех,https://hh.ru/employer/4199338,Минск
+171,https://hh.ru/vacancy/46938645?from=vacancy_search_list&query=python,Middle Django Developer | Admin team,,,,RocketData,https://hh.ru/employer/3591220,Минск
+172,https://hh.ru/vacancy/44609213?from=vacancy_search_list&query=python,Senior Oracle Database developer / DBA,,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+173,https://hh.ru/vacancy/46820641?from=vacancy_search_list&query=python,"Middle Full-stack software engineer (.NET Core, React.js or Vue.js)",1000.0,3000.0, USD,ООО Центория Софт,https://hh.ru/employer/2015058,Минск
+174,https://hh.ru/vacancy/46988275?from=vacancy_search_list&query=python,Quality Assurance engineer,,,,ООО Визутех Систем,https://hh.ru/employer/770639,Минск
+175,https://hh.ru/vacancy/46247323?from=vacancy_search_list&query=python,DevOps Engineer (Central Services),,,,"Wargaming, Moscow",https://hh.ru/employer/662769?dpt=662769-662769-moscow,Минск
+176,https://hh.ru/vacancy/44704345?from=vacancy_search_list&query=python,Microsoft Database / BI Senior Developer,,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+177,https://hh.ru/vacancy/45452809?from=vacancy_search_list&query=python,Senior BigData Engineer,,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+178,https://hh.ru/vacancy/46791983?from=vacancy_search_list&query=python,Lead DevOps,,,,Иностр. п. Admitad,https://hh.ru/employer/921918,Минск
+179,https://hh.ru/vacancy/45086305?from=vacancy_search_list&query=python,.Net Developer,,,,ООО Сампад,https://hh.ru/employer/1535743,Минск
+180,https://hh.ru/vacancy/46476637?from=vacancy_search_list&query=python,C++ Toolset Developer [возможен Remote],,,,AWEM,https://hh.ru/employer/859391,Минск
+181,https://hh.ru/vacancy/46506717?from=vacancy_search_list&query=python,Middle/Senior Front-end Engineer,,,,ООО Проект Дилбай,https://hh.ru/employer/2052321,Минск
+182,https://hh.ru/vacancy/45927890?from=vacancy_search_list&query=python,Business Analyst,,,,ООО Сампад,https://hh.ru/employer/1535743,Минск
+183,https://hh.ru/vacancy/46753777?from=vacancy_search_list&query=python,Middle Front Engineer (JavaScript),,,,ООО Неро Электроникс,https://hh.ru/employer/227572,Минск
+184,https://hh.ru/vacancy/47037237?from=vacancy_search_list&query=python,Lead QA Automation,,,,Playrix,https://hh.ru/employer/114448,Минск
+185,https://hh.ru/vacancy/47041812?from=vacancy_search_list&query=python,Software Engineer - SRE,,,,ZiMAD,https://hh.ru/employer/780623,Минск
+186,https://hh.ru/vacancy/47041782?from=vacancy_search_list&query=python,Software Engineer (Senior),,,,ZiMAD,https://hh.ru/employer/780623,Минск
+187,https://hh.ru/vacancy/47001207?from=vacancy_search_list&query=python,Programming teacher (Roblox),40000.0,50000.0, руб.,IT школа Hello world,https://hh.ru/employer/3407499,Минск
+188,https://hh.ru/vacancy/46988788?from=vacancy_search_list&query=python,Node.js разработчик,,,,Лайт Вел Организейшн,https://hh.ru/employer/766172,"Минск, Площадь Победы"
+189,https://hh.ru/vacancy/46971570?from=vacancy_search_list&query=python,WEB analytic,,,,ООО Бургер БК,https://hh.ru/employer/1787410,"Минск, Михалово"
+190,https://hh.ru/vacancy/46714964?from=vacancy_search_list&query=python,Frontend Developer,,,,ООО Сампад,https://hh.ru/employer/1535743,Минск
+191,https://hh.ru/vacancy/46673159?from=vacancy_search_list&query=python,Ruby on Rails developer,,,,Syberry CIS,https://hh.ru/employer/1196575,"Минск, Институт Культуры"
+192,https://hh.ru/vacancy/46968141?from=vacancy_search_list&query=python,Android Developer,,,,ООО Сампад,https://hh.ru/employer/1535743,Минск
+193,https://hh.ru/vacancy/43121937?from=vacancy_search_list&query=python,Embedded Developer,,,,ООО ЛАЦИТ - Лаборатория цифровых технологий,https://hh.ru/employer/3299238,"Минск, Площадь Франтишка Богушевича"
+194,https://hh.ru/vacancy/46766409?from=vacancy_search_list&query=python,Graphics Programmer,2500.0,, USD,General Arcade,https://hh.ru/employer/4730160,Минск
+195,https://hh.ru/vacancy/46386588?from=vacancy_search_list&query=python,"Senior Software Engineer (Platform, Commerce)",,,,"Wargaming, Minsk (Game Stream)",https://hh.ru/employer/662769?dpt=662769-662769-minsk,Минск
+196,https://hh.ru/vacancy/46833031?from=vacancy_search_list&query=python,Таргетолог,600.0,, USD,ООО Айтигенио,https://hh.ru/employer/3060194,Минск
+197,https://hh.ru/vacancy/47041794?from=vacancy_search_list&query=python,Senior Software Engineer,,,,ZiMAD,https://hh.ru/employer/780623,Минск
+198,https://hh.ru/vacancy/41925006?from=vacancy_search_list&query=python,SRE engineer,,,,Tango Me,https://hh.ru/employer/3266823,Минск
+199,https://hh.ru/vacancy/46946841?from=vacancy_search_list&query=python,BI Developer,,,,Belitsoft,https://hh.ru/employer/754682,Минск
+200,https://hh.ru/vacancy/41925006?from=vacancy_search_list&query=python,SRE engineer,,,,Tango Me,https://hh.ru/employer/3266823,Минск
+201,https://hh.ru/vacancy/46099033?from=vacancy_search_list&query=python,Senior QA Engineer,,,,ООО Инспекторио Бел,https://hh.ru/employer/4270886,"Минск, Немига"
+202,https://hh.ru/vacancy/45924830?from=vacancy_search_list&query=python,Senior Support Engineer - CloudLinux Specialized Team [Remote],,,,Cloud Linux,https://hh.ru/employer/1245452,Минск
+203,https://hh.ru/vacancy/47041794?from=vacancy_search_list&query=python,Senior Software Engineer,,,,ZiMAD,https://hh.ru/employer/780623,Минск
+204,https://hh.ru/vacancy/47050267?from=vacancy_search_list&query=python,Senior System engineer,,,,21vek.by,https://hh.ru/employer/763400,Минск
+205,https://hh.ru/vacancy/47047532?from=vacancy_search_list&query=python,DBA / Администратор баз данных (PostgreSQL),3000.0,4000.0, бел. руб.,ООО МАКСБИТСОЛЮШЕН,https://hh.ru/employer/4525306,"Минск, Академия наук и еще 1 "
+206,https://hh.ru/vacancy/46673159?from=vacancy_search_list&query=python,Ruby on Rails developer,,,,Syberry CIS,https://hh.ru/employer/1196575,"Минск, Институт Культуры"
+207,https://hh.ru/vacancy/46506717?from=vacancy_search_list&query=python,Middle/Senior Front-end Engineer,,,,ООО Проект Дилбай,https://hh.ru/employer/2052321,Минск
+208,https://hh.ru/vacancy/44405045?from=vacancy_search_list&query=python,Embedded developer,,,,SaM Solutions Самсолюшнс,https://hh.ru/employer/745670,"Минск, Московская"
+209,https://hh.ru/vacancy/46386588?from=vacancy_search_list&query=python,"Senior Software Engineer (Platform, Commerce)",,,,"Wargaming, Minsk (Game Stream)",https://hh.ru/employer/662769?dpt=662769-662769-minsk,Минск
+210,https://hh.ru/vacancy/46986834?from=vacancy_search_list&query=python,"Преподаватель IT дисциплин в Международную школу программирования ""Алгоритмика""",1500.0,3000.0, бел. руб.,Алгоритмика Б,https://hh.ru/employer/5577009,"Минск, Фрунзенская"
+211,https://hh.ru/vacancy/46952973?from=vacancy_search_list&query=python,Business Analyst - Disaster Risk Analytics Software,1500.0,3000.0, USD,ООО Контурные карты,https://hh.ru/employer/5134667,Минск
+212,https://hh.ru/vacancy/44253869?from=vacancy_search_list&query=python,QA Performance Engineer,,,,"Wargaming, Minsk (Game Stream)",https://hh.ru/employer/662769?dpt=662769-662769-minsk,Минск
+213,https://hh.ru/vacancy/45537546?from=vacancy_search_list&query=python,QA Engineer,,,,ООО Инспекторио Бел,https://hh.ru/employer/4270886,Минск
+214,https://hh.ru/vacancy/46753777?from=vacancy_search_list&query=python,Middle Front Engineer (JavaScript),,,,ООО Неро Электроникс,https://hh.ru/employer/227572,Минск
+215,https://hh.ru/vacancy/47037237?from=vacancy_search_list&query=python,Lead QA Automation,,,,Playrix,https://hh.ru/employer/114448,Минск
+216,https://hh.ru/vacancy/46933384?from=vacancy_search_list&query=python,C Developer (L2),,,,ООО Смарт АйТи,https://hh.ru/employer/2102314,"Минск, Молодежная и еще 1 "
+217,https://hh.ru/vacancy/46971570?from=vacancy_search_list&query=python,WEB analytic,,,,ООО Бургер БК,https://hh.ru/employer/1787410,"Минск, Михалово"
+218,https://hh.ru/vacancy/45151611?from=vacancy_search_list&query=python,Junior Frontend Developer,,,,ООО Сампад,https://hh.ru/employer/1535743,Минск
+219,https://hh.ru/vacancy/47001207?from=vacancy_search_list&query=python,Programming teacher (Roblox),40000.0,50000.0, руб.,IT школа Hello world,https://hh.ru/employer/3407499,Минск
+220,https://hh.ru/vacancy/44847641?from=vacancy_search_list&query=python,Marketing Analyst,,,,ZiMAD,https://hh.ru/employer/780623,Минск
+221,https://hh.ru/vacancy/45538183?from=vacancy_search_list&query=python,Atlassian Admin,,,,LeverX International,https://hh.ru/employer/759873,"Минск, Уручье"
+222,https://hh.ru/vacancy/46947833?from=vacancy_search_list&query=python,Специалист департамента рисков,,,,ОАО БЕЛИНВЕСТБАНК,https://hh.ru/employer/796408,Минск
+223,https://hh.ru/vacancy/45116529?from=vacancy_search_list&query=python,Lead Designer,,,,ООО Сампад,https://hh.ru/employer/1535743,Минск
+224,https://hh.ru/vacancy/46517133?from=vacancy_search_list&query=python,Project Manager,,,,ООО Сампад,https://hh.ru/employer/1535743,Минск
+225,https://hh.ru/vacancy/34804827?from=vacancy_search_list&query=python,Game Engine Developer,,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+226,https://hh.ru/vacancy/47012697?from=vacancy_search_list&query=python,Partnership manager,,,,Skyeng,https://hh.ru/employer/1122462,Минск
+227,https://hh.ru/vacancy/46955936?from=vacancy_search_list&query=python,Директор по развитию IT/руководитель бизнес-аналитического подразделения,,,,КВАДРАТ,https://hh.ru/employer/85188,Минск
+228,https://hh.ru/vacancy/47012651?from=vacancy_search_list&query=python,Менеджер партнерского маркетинга,,,,Skyeng,https://hh.ru/employer/1122462,Минск
+229,https://hh.ru/vacancy/47012608?from=vacancy_search_list&query=python,Менеджер партнерских спецпроектов,,,,Skyeng,https://hh.ru/employer/1122462,Минск
+230,https://hh.ru/vacancy/46913237?from=vacancy_search_list&query=python,Lead / Senior Python Developer,4500.0,, USD,RocketData,https://hh.ru/employer/3591220,"Минск, Восток и еще 1 "
+231,https://hh.ru/vacancy/47037336?from=vacancy_search_list&query=python,Project Manager,,,,Abiatec,https://hh.ru/employer/854019,Минск
+232,https://hh.ru/vacancy/46973410?from=vacancy_search_list&query=python,Менеджер отдела заботы входящих коммуникаций,300.0,450.0, USD,Skyeng,https://hh.ru/employer/1122462,Минск
+233,https://hh.ru/vacancy/42380451?from=vacancy_search_list&query=python,Middle/Senior QA Automation Engineer (Python),,,,Belitsoft,https://hh.ru/employer/754682,Минск
+234,https://hh.ru/vacancy/46913019?from=vacancy_search_list&query=python,Специалист технической поддержки партнеров/Junior Web,500.0,2000.0, USD,CpaGen,https://hh.ru/employer/4958848,Минск
+235,https://hh.ru/vacancy/46914920?from=vacancy_search_list&query=python,Senior Performance Test Engineer,,,,Altoros Bel,https://hh.ru/employer/570938,"Минск, Кунцевщина"
+236,https://hh.ru/vacancy/44572331?from=vacancy_search_list&query=python,Junior DevOps Engineer (Trainee/Students Lab),,,,iTechArt Group,https://hh.ru/employer/666194,Минск
+237,https://hh.ru/vacancy/46884387?from=vacancy_search_list&query=python,BI-аналитик / бизнес-аналитик,,,,21vek.by,https://hh.ru/employer/763400,Минск
+238,https://hh.ru/vacancy/45214878?from=vacancy_search_list&query=python,Ops Engineer,,,,21vek.by,https://hh.ru/employer/763400,Минск
+239,https://hh.ru/vacancy/43357000?from=vacancy_search_list&query=python,C++ Client Developer,,,,ООО Melsoft Games,https://hh.ru/employer/959036,Минск
+240,https://hh.ru/vacancy/38984389?from=vacancy_search_list&query=python,Технический художник / Tech Artist,,,,ООО Игро Тэк,https://hh.ru/employer/3190372,"Минск, Кунцевщина"
+241,https://hh.ru/vacancy/46247471?from=vacancy_search_list&query=python,Software Engineering Manager,,,,iTechArt Group,https://hh.ru/employer/666194,Минск
+242,https://hh.ru/vacancy/46126293?from=vacancy_search_list&query=python,Python Backend Developer / WEB - разработчик,2400.0,, USD,ООО Перфект Системс,https://hh.ru/employer/1713030,Минск
+243,https://hh.ru/vacancy/46126511?from=vacancy_search_list&query=python,Senior Python Backend Developer / WEB - разработчик,2400.0,, USD,ООО Перфект Системс,https://hh.ru/employer/1713030,Минск
+244,https://hh.ru/vacancy/46841382?from=vacancy_search_list&query=python,Senior Front-End Developer в Python отдел,,,,Innowise Group / Фабрика инноваций и решений,https://hh.ru/employer/1858119,Минск
+245,https://hh.ru/vacancy/46864409?from=vacancy_search_list&query=python,QA Engineer,,,,ООО Файердом Бел,https://hh.ru/employer/4546512,"Минск, Первомайская"
+246,https://hh.ru/vacancy/46847195?from=vacancy_search_list&query=python,Junior/Middle Backend Developer,,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+247,https://hh.ru/vacancy/46383099?from=vacancy_search_list&query=python,Email manager,,,,Skyeng,https://hh.ru/employer/1122462,Минск
+248,https://hh.ru/vacancy/46866029?from=vacancy_search_list&query=python,PHP / Fullstack Developer,,,,ООО ВарекорпБел,https://hh.ru/employer/767533,Минск
+249,https://hh.ru/vacancy/46856002?from=vacancy_search_list&query=python,Senior/Principal DevOps Engineer,,,,Oxagile,https://hh.ru/employer/763432,Минск
+250,https://hh.ru/vacancy/46841432?from=vacancy_search_list&query=python,Junior/ Middle Front-End Software Developer,,,,Innowise Group / Фабрика инноваций и решений,https://hh.ru/employer/1858119,Минск
+251,https://hh.ru/vacancy/46301728?from=vacancy_search_list&query=python,Senior SEO-специалист,,,,Skyeng,https://hh.ru/employer/1122462,Минск
+252,https://hh.ru/vacancy/46638326?from=vacancy_search_list&query=python,SEO-специалист,,,,Skyeng,https://hh.ru/employer/1122462,Минск
+253,https://hh.ru/vacancy/44995838?from=vacancy_search_list&query=python,Data Analyst (Marketing),,,,ООО Хайкор Геймз,https://hh.ru/employer/4594434,Минск
+254,https://hh.ru/vacancy/45414882?from=vacancy_search_list&query=python,IOS Developer,,,,СофтЭфИкс,https://hh.ru/employer/750398,"Минск, Московская"
+255,https://hh.ru/vacancy/46813747?from=vacancy_search_list&query=python,Data Scientist / Data Analyst,,,,МТС. Маркетинг,https://hh.ru/employer/89798?dpt=89798-89798-04,"Минск, Парк Челюскинцев"
+256,https://hh.ru/vacancy/46832363?from=vacancy_search_list&query=python,"Преподаватель информатики, робототехники, PYTHON, Unity 3d, Cinema 4D",,,,УП Айтишник,https://hh.ru/employer/2622848,"Минск, Институт Культуры"
+257,https://hh.ru/vacancy/46832634?from=vacancy_search_list&query=python,Data Analyst,,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+258,https://hh.ru/vacancy/46858092?from=vacancy_search_list&query=python,Менеджер проектов (Projectman/Project manager),2150.0,3250.0, бел. руб.,ООО Лидми сейлс девсолюшн,https://hh.ru/employer/5104252,Минск
+259,https://hh.ru/vacancy/46389145?from=vacancy_search_list&query=python,Senior Data Analyst,,,,Playrix,https://hh.ru/employer/114448,Минск
+260,https://hh.ru/vacancy/46824410?from=vacancy_search_list&query=python,Junior + DevOps Engineer,,,,ID Finance,https://hh.ru/employer/2227394,"Минск, Уручье"
+261,https://hh.ru/vacancy/46002690?from=vacancy_search_list&query=python,"Back End Engineer (Postgres, Java) - Disaster Management",2500.0,4000.0, USD,ООО Контурные карты,https://hh.ru/employer/5134667,Минск
+262,https://hh.ru/vacancy/44939420?from=vacancy_search_list&query=python,Junior Scala Developer (Trainee/Students Lab),,,,iTechArt Group,https://hh.ru/employer/666194,"Минск, Институт Культуры"
+263,https://hh.ru/vacancy/46659938?from=vacancy_search_list&query=python,Специалист по информационным технологиям,,,,ООО БДО,https://hh.ru/employer/764101,"Минск, Немига и еще 1 "
+264,https://hh.ru/vacancy/46314373?from=vacancy_search_list&query=python,Преподаватель по программированию,25000.0,45000.0, руб.,IT школа Hello world,https://hh.ru/employer/3407499,Минск
+265,https://hh.ru/vacancy/45973036?from=vacancy_search_list&query=python,Senior QA Engineer,,,,Mainsoft,https://hh.ru/employer/763195,Минск
+266,https://hh.ru/vacancy/39478591?from=vacancy_search_list&query=python,Backend Developer (Game Services),,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+267,https://hh.ru/vacancy/46776066?from=vacancy_search_list&query=python,С++ Game Developer (Программист C++),,,,Playrix,https://hh.ru/employer/114448,Минск
+268,https://hh.ru/vacancy/46551406?from=vacancy_search_list&query=python,"Software Engineer in Data Engineering Team (Ruby+Python, С++)",,,,Profitero,https://hh.ru/employer/1190203,"Минск, Немига"
+269,https://hh.ru/vacancy/41709274?from=vacancy_search_list&query=python,Senior Software Engineer,,,,Oxagile,https://hh.ru/employer/763432,Минск
+270,https://hh.ru/vacancy/46798946?from=vacancy_search_list&query=python,Senior Developer (Console UE4-project),,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+271,https://hh.ru/vacancy/45506386?from=vacancy_search_list&query=python,UA Manager/ UAM/ Media Buyer/ PPC,,,,Playrix,https://hh.ru/employer/114448,Минск
+272,https://hh.ru/vacancy/46750373?from=vacancy_search_list&query=python,Data Engineer,,,,instinctools,https://hh.ru/employer/729888,Минск
+273,https://hh.ru/vacancy/46798927?from=vacancy_search_list&query=python,Game Developer (Console UE4-project),,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+274,https://hh.ru/vacancy/46733201?from=vacancy_search_list&query=python,Technical Artist [возможен Remote],,,,AWEM,https://hh.ru/employer/859391,Минск
+275,https://hh.ru/vacancy/46760941?from=vacancy_search_list&query=python,Technology Analyst,800.0,, USD,DemandMatrix,https://hh.ru/employer/5210054,Минск
+276,https://hh.ru/vacancy/46554733?from=vacancy_search_list&query=python,Креативный продюсер продукта Life,,,,Skyeng,https://hh.ru/employer/1122462,Минск
+277,https://hh.ru/vacancy/46759926?from=vacancy_search_list&query=python,QA/AQA Engineer Middle,,,,ООО СолбегСофт,https://hh.ru/employer/766249,Минск
+278,https://hh.ru/vacancy/46758937?from=vacancy_search_list&query=python,Java Full Stack Developer,,,,Belitsoft,https://hh.ru/employer/754682,Минск
+279,https://hh.ru/vacancy/46742919?from=vacancy_search_list&query=python,DevOps Engineer,,,,ООО СолбегСофт,https://hh.ru/employer/766249,Минск
+280,https://hh.ru/vacancy/46739434?from=vacancy_search_list&query=python,DevOps Engineer,,,,АмДев / Amasty,https://hh.ru/employer/1010601,"Минск, Петровщина"
+281,https://hh.ru/vacancy/46711350?from=vacancy_search_list&query=python,Python full-stack Developer (Middle / Senior),,,,ООО СолбегСофт,https://hh.ru/employer/766249,Минск
+282,https://hh.ru/vacancy/46720802?from=vacancy_search_list&query=python,Data Analyst,,,,Техниксофт,https://hh.ru/employer/1227984,Минск
+283,https://hh.ru/vacancy/42140942?from=vacancy_search_list&query=python,Middle/Senior/Lead Python Software Engineer,,,,Godel Technologies Europe,https://hh.ru/employer/756805,Минск
+284,https://hh.ru/vacancy/46026194?from=vacancy_search_list&query=python,Site Reliability Engineer,,,,ООО СолбегСофт,https://hh.ru/employer/766249,Минск
+285,https://hh.ru/vacancy/46702890?from=vacancy_search_list&query=python,Специалист по продвинутой обработке и визуализации данных/Data engineer,,,,ОАО БПС-Сбербанк,https://hh.ru/employer/829010,Минск
+286,https://hh.ru/vacancy/46722751?from=vacancy_search_list&query=python,С/C++ Developer,,,,ООО ИТС Партнёр,https://hh.ru/employer/797558,Минск
+287,https://hh.ru/vacancy/45959655?from=vacancy_search_list&query=python,Middle/Senior Vue JS developer,,,,Belitsoft,https://hh.ru/employer/754682,Минск
+288,https://hh.ru/vacancy/46722750?from=vacancy_search_list&query=python,Senior/Lead DevOps Engineer (AWS stack),,,,instinctools,https://hh.ru/employer/729888,Минск
+289,https://hh.ru/vacancy/43565653?from=vacancy_search_list&query=python,Golang/ Go-разработчик,,,,Nexters,https://hh.ru/employer/614947,Минск
+290,https://hh.ru/vacancy/43565742?from=vacancy_search_list&query=python,Data Analyst (Marketing),,,,Nexters,https://hh.ru/employer/614947,Минск
+291,https://hh.ru/vacancy/46718389?from=vacancy_search_list&query=python,Senior DevOps Engineer,,,,"EPAM Systems, Inc.",https://hh.ru/employer/632462,Минск
+292,https://hh.ru/vacancy/46079305?from=vacancy_search_list&query=python,DevOps Engineer,,,,ООО Кортлекс Бел,https://hh.ru/employer/1868959,Минск
+293,https://hh.ru/vacancy/46723111?from=vacancy_search_list&query=python,"Backend Engineer, RAVE Tooling",,,,ООО МэпДэйта,https://hh.ru/employer/3075451,Минск
+294,https://hh.ru/vacancy/44184227?from=vacancy_search_list&query=python,Lead Engineer in Test Automation,,,,AWEM,https://hh.ru/employer/859391,Минск
+295,https://hh.ru/vacancy/46061344?from=vacancy_search_list&query=python,Senior Test Automation Engineer,,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+296,https://hh.ru/vacancy/43565590?from=vacancy_search_list&query=python,"Продуктовый аналитик-Игровой аналитик (Product Analyst / Game Analyst, Middle)",,,,Nexters,https://hh.ru/employer/614947,Минск
+297,https://hh.ru/vacancy/46694374?from=vacancy_search_list&query=python,DevOps engineer,,,,ARTOX,https://hh.ru/employer/730254,"Минск, Парк Челюскинцев"
+298,https://hh.ru/vacancy/46720930?from=vacancy_search_list&query=python,Firmware Engineer,,,,Техниксофт,https://hh.ru/employer/1227984,"Минск, Немига"
+299,https://hh.ru/vacancy/46715209?from=vacancy_search_list&query=python,PHP Developer,,,,iTechArt Group,https://hh.ru/employer/666194,"Минск, Институт Культуры"
+300,https://hh.ru/vacancy/46716015?from=vacancy_search_list&query=python,Game Analyst,,,,ООО Melsoft Games,https://hh.ru/employer/959036,Минск
+301,https://hh.ru/vacancy/46715442?from=vacancy_search_list&query=python,"Full-stack (PHP, React) Developer",,,,GP Solutions,https://hh.ru/employer/221933,"Минск, Молодежная"
+302,https://hh.ru/vacancy/44456596?from=vacancy_search_list&query=python,Manual QA Engineer,,,,ООО СолбегСофт,https://hh.ru/employer/766249,Минск
+303,https://hh.ru/vacancy/46698920?from=vacancy_search_list&query=python,Учитель информатики,,,,Средняя школа № 1 д. Копище,https://hh.ru/employer/4613148,Минск
+304,https://hh.ru/vacancy/46004532?from=vacancy_search_list&query=python,Senior DevOps Engineer (Development),,,,Oxagile,https://hh.ru/employer/763432,Минск
+305,https://hh.ru/vacancy/46014049?from=vacancy_search_list&query=python,.Net developer,,,,ООО СК хайникс мемори солюшнс Восточная Европа,https://hh.ru/employer/1712281,"Минск, Немига"
+306,https://hh.ru/vacancy/46715337?from=vacancy_search_list&query=python,CRM маркетолог / Email маркетолог,600.0,, USD,ООО Айтигенио,https://hh.ru/employer/3060194,Минск
+307,https://hh.ru/vacancy/45926438?from=vacancy_search_list&query=python,Lead Data Analyst (Gamedev / Casual),,,,ООО Плейджендари Девелопмент,https://hh.ru/employer/1463256,Минск
+308,https://hh.ru/vacancy/46677041?from=vacancy_search_list&query=python,Lead OpenSource DevOps,,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+309,https://hh.ru/vacancy/46653058?from=vacancy_search_list&query=python,QA Automation Engineer/Trainee (Students Lab),,,,iTechArt Group,https://hh.ru/employer/666194,"Минск, Академия наук"
+310,https://hh.ru/vacancy/45074887?from=vacancy_search_list&query=python,Lead Data Engineer,,,,Oxagile,https://hh.ru/employer/763432,Минск
+311,https://hh.ru/vacancy/45371963?from=vacancy_search_list&query=python,System Administrator Linux,,,,"А1. Информационные технологии, телеком",https://hh.ru/employer/778329?dpt=778329-778329-01,Минск
+312,https://hh.ru/vacancy/45981525?from=vacancy_search_list&query=python,.NET Developer,,,,Andersen,https://hh.ru/employer/851604,Минск
+313,https://hh.ru/vacancy/46666286?from=vacancy_search_list&query=python,Сетевой инженер,,,,МТС. Техника,https://hh.ru/employer/89798?dpt=89798-89798-06,"Минск, Парк Челюскинцев"
+314,https://hh.ru/vacancy/46633308?from=vacancy_search_list&query=python,Azure data engineer,,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+315,https://hh.ru/vacancy/45111090?from=vacancy_search_list&query=python,Data Engineer,,,,Тинькофф,https://hh.ru/employer/78638,Минск
+316,https://hh.ru/vacancy/46629944?from=vacancy_search_list&query=python,BI Engineer/Data Engineer,,,,ООО Йондер Медиа Мобайл БиУай,https://hh.ru/employer/3867225,Минск
+317,https://hh.ru/vacancy/45110954?from=vacancy_search_list&query=python,Разработчик ETL,,,,Тинькофф,https://hh.ru/employer/78638,Минск
+318,https://hh.ru/vacancy/45098667?from=vacancy_search_list&query=python,React JS Developer,,,,Belitsoft,https://hh.ru/employer/754682,Минск
+319,https://hh.ru/vacancy/46638204?from=vacancy_search_list&query=python,Senior DevOps Engineer,,,,Gurtam,https://hh.ru/employer/744104,"Минск, Кунцевщина"
+320,https://hh.ru/vacancy/46638204?from=vacancy_search_list&query=python,Senior DevOps Engineer,,,,Gurtam,https://hh.ru/employer/744104,"Минск, Кунцевщина"
+321,https://hh.ru/vacancy/45106790?from=vacancy_search_list&query=python,Инженер по тестированию,,,,Тинькофф,https://hh.ru/employer/78638,Минск
+322,https://hh.ru/vacancy/46636373?from=vacancy_search_list&query=python,QA Manual Engineer,,,,Инновационная компания Promwad,https://hh.ru/employer/718393,Минск
+323,https://hh.ru/vacancy/46631640?from=vacancy_search_list&query=python,Middle Backend Engineer,,,,ООО Йондер Медиа Мобайл БиУай,https://hh.ru/employer/3867225,Минск
+324,https://hh.ru/vacancy/46634528?from=vacancy_search_list&query=python,Middle Penetration engineer,,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+325,https://hh.ru/vacancy/44048776?from=vacancy_search_list&query=python,Главный/ведущий экономист отдела рыночных рисков,,,,ОАО Белгазпромбанк,https://hh.ru/employer/808020,Минск
+326,https://hh.ru/vacancy/46602418?from=vacancy_search_list&query=python,Back-end Software Engineer (в проект Big data & data visualization),,,,ООО СВАПС системз,https://hh.ru/employer/2650651,"Минск, Петровщина"
+327,https://hh.ru/vacancy/45831863?from=vacancy_search_list&query=python,Trainee/Junior Salesforce Developer,,,,ООО Онилаб,https://hh.ru/employer/1585138,"Минск, Каменная Горка"
+328,https://hh.ru/vacancy/45940073?from=vacancy_search_list&query=python,Data Scientist,,,,"EPAM Systems, Inc.",https://hh.ru/employer/632462,Минск
+329,https://hh.ru/vacancy/46636089?from=vacancy_search_list&query=python,Lead DevOps Engineer (AWS/Azure),,,,Exadel,https://hh.ru/employer/747381,Минск
+330,https://hh.ru/vacancy/45913632?from=vacancy_search_list&query=python,Junior DevOps Engineer,,,,iTechArt Group,https://hh.ru/employer/666194,"Минск, Институт Культуры"
+331,https://hh.ru/vacancy/40298990?from=vacancy_search_list&query=python,Экономист отдела по управлению активами и пассивами,,,,ОАО Белгазпромбанк,https://hh.ru/employer/808020,Минск
+332,https://hh.ru/vacancy/46625925?from=vacancy_search_list&query=python,Junior- Middle Front-end Developer (React),,,,Andersen,https://hh.ru/employer/851604,Минск
+333,https://hh.ru/vacancy/46590880?from=vacancy_search_list&query=python,Программист,200.0,, бел. руб.,"ГОРОДНИЧИЙ, ЧП",https://hh.ru/employer/1616517,Минск
+334,https://hh.ru/vacancy/45108829?from=vacancy_search_list&query=python,Site Reliability Engineer (SRE),,,,Тинькофф,https://hh.ru/employer/78638,Минск
+335,https://hh.ru/vacancy/46377304?from=vacancy_search_list&query=python,Data Analyst (YouTube),,,,ООО ЧЕТЫРЕАЧЕТЫРЕ,https://hh.ru/employer/4433579,Минск
+336,https://hh.ru/vacancy/45793547?from=vacancy_search_list&query=python,Data / BigData Solutions architect,,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+337,https://hh.ru/vacancy/46593870?from=vacancy_search_list&query=python,Junior devOps Engineer,,,,ООО Netcracker Technology Corp.,https://hh.ru/employer/2677870,"Минск, Михалово"
+338,https://hh.ru/vacancy/46601757?from=vacancy_search_list&query=python,QA engineer (Manual) Middle-Senior,,,,ООО Дебитрум Девелопмент,https://hh.ru/employer/5332130,Минск
+339,https://hh.ru/vacancy/46598168?from=vacancy_search_list&query=python,DevOps Specialist,,3500.0, USD,ALP ITSM,https://hh.ru/employer/5176643,Минск
+340,https://hh.ru/vacancy/46589939?from=vacancy_search_list&query=python,DevOps Support Engineer/Linux Administrator,,,,SoftTeco,https://hh.ru/employer/781205,Минск
+341,https://hh.ru/vacancy/46573396?from=vacancy_search_list&query=python,Game Data Analyst,,,,ООО СтаркГеймз,https://hh.ru/employer/961519,"Минск, Фрунзенская"
+342,https://hh.ru/vacancy/46589165?from=vacancy_search_list&query=python,PHP backend developer (Laravel),1500.0,2500.0, USD,3Team,https://hh.ru/employer/4174714,Минск
+343,https://hh.ru/vacancy/46571003?from=vacancy_search_list&query=python,Senior Data Engineer,,,,Specific-Group,https://hh.ru/employer/679033,Минск
+344,https://hh.ru/vacancy/46551290?from=vacancy_search_list&query=python,Full Stack (Python/ Vue js) developer,,,,Belitsoft,https://hh.ru/employer/754682,Минск
+345,https://hh.ru/vacancy/46567890?from=vacancy_search_list&query=python,Product Data Analyst,,,,ООО Вераксен Бел,https://hh.ru/employer/2516122,Минск
+346,https://hh.ru/vacancy/41689531?from=vacancy_search_list&query=python,DevOps engineer,,,,ЕВРООПТ,https://hh.ru/employer/753017,"Минск, Каменная Горка"
+347,https://hh.ru/vacancy/46553956?from=vacancy_search_list&query=python,Devops engineer,,,,ООО Доктор Фокусд,https://hh.ru/employer/3665938,Минск
+348,https://hh.ru/vacancy/46530610?from=vacancy_search_list&query=python,Data Engineer,,,,ООО ИТС Партнёр,https://hh.ru/employer/797558,Минск
+349,https://hh.ru/vacancy/41177261?from=vacancy_search_list&query=python,Cтажёр-разработчик автоматизированных тестов,,,,a1qa,https://hh.ru/employer/1136622,"Минск, Кунцевщина"
+350,https://hh.ru/vacancy/46564335?from=vacancy_search_list&query=python,Инженер в группу поддержки биллинга,,,,ActiveCloud,https://hh.ru/employer/606211,Минск
+351,https://hh.ru/vacancy/43026235?from=vacancy_search_list&query=python,Java Server-Side Developer,,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+352,https://hh.ru/vacancy/42334213?from=vacancy_search_list&query=python,Senior/Lead Java Developer,,,,SaM Solutions Самсолюшнс,https://hh.ru/employer/745670,Минск
+353,https://hh.ru/vacancy/44410479?from=vacancy_search_list&query=python,JavaScript Developer (Opportunity 1),,,,Oxagile,https://hh.ru/employer/763432,Минск
+354,https://hh.ru/vacancy/46530468?from=vacancy_search_list&query=python,Data Analyst,,,,ЕОН ГЕЙМС,https://hh.ru/employer/1194864,"Минск, Московская"
+355,https://hh.ru/vacancy/44354366?from=vacancy_search_list&query=python,Big Data Engineer (telemedicine),,,,iTechArt Group,https://hh.ru/employer/666194,"Минск, Институт Культуры"
+356,https://hh.ru/vacancy/44367322?from=vacancy_search_list&query=python,Python Developer (Technical Support),500.0,600.0, USD,RocketData,https://hh.ru/employer/3591220,"Минск, Восток и еще 1 "
+357,https://hh.ru/vacancy/46716042?from=vacancy_search_list&query=python,Data Analyst (Marketing),,,,ООО Melsoft Games,https://hh.ru/employer/959036,Минск
+358,https://hh.ru/vacancy/46510436?from=vacancy_search_list&query=python,DevOps Engineer,,,,Пари-Матч,https://hh.ru/employer/841116,"Минск, Борисовский тракт"
+359,https://hh.ru/vacancy/46732038?from=vacancy_search_list&query=python,Инженер по цифровым оптическим линиям связи,,,,VPI Development Center/ВиПиАй Девелопмент Центр,https://hh.ru/employer/630826,Минск
+360,https://hh.ru/vacancy/46732038?from=vacancy_search_list&query=python,Инженер по цифровым оптическим линиям связи,,,,VPI Development Center/ВиПиАй Девелопмент Центр,https://hh.ru/employer/630826,Минск
+361,https://hh.ru/vacancy/44937006?from=vacancy_search_list&query=python,DevOps Engineer,,,,Хайэнд Системс,https://hh.ru/employer/1124822,"Минск, Уручье"
+362,https://hh.ru/vacancy/46514129?from=vacancy_search_list&query=python,DevOps Engineer/System Administrator,,,,ООО Навексофт,https://hh.ru/employer/4475064,"Минск, Парк Челюскинцев и еще 1 "
+363,https://hh.ru/vacancy/45226043?from=vacancy_search_list&query=python,DevOps Engineer,,,,21vek.by,https://hh.ru/employer/763400,Минск
+364,https://hh.ru/vacancy/46504448?from=vacancy_search_list&query=python,Middle/Senior Java Engineer,,,,ООО БЕЛСОТБИТ,https://hh.ru/employer/2065301,Минск
+365,https://hh.ru/vacancy/42611257?from=vacancy_search_list&query=python,Security Engineer,,,,iTechArt Group,https://hh.ru/employer/666194,Минск
+366,https://hh.ru/vacancy/41456381?from=vacancy_search_list&query=python,Engineering Manager,,,,Oxagile,https://hh.ru/employer/763432,Минск
+367,https://hh.ru/vacancy/46506019?from=vacancy_search_list&query=python,Middle Blockchain developer,,,,ООО Мильжикс,https://hh.ru/employer/3416223,"Минск, Московская и еще 1 "
+368,https://hh.ru/vacancy/38315128?from=vacancy_search_list&query=python,Generalist/R&D Software Engineer,,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+369,https://hh.ru/vacancy/30316377?from=vacancy_search_list&query=python,Systems Engineer/DevOps (UE4-project),,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+370,https://hh.ru/vacancy/46509562?from=vacancy_search_list&query=python,Systems Engineer / SRE,,,,ООО Эволюшн Продактс Девелопмент,https://hh.ru/employer/3984806,"Минск, Борисовский тракт"
+371,https://hh.ru/vacancy/44202976?from=vacancy_search_list&query=python,"Geospatial Engineer (Open Source, C, C++) - Disaster Management",2000.0,3000.0, USD,ООО Контурные карты,https://hh.ru/employer/5134667,Минск
+372,https://hh.ru/vacancy/46439767?from=vacancy_search_list&query=python,Python Middle Developer,,,,Itransition,https://hh.ru/employer/204511,Минск
+373,https://hh.ru/vacancy/42814257?from=vacancy_search_list&query=python,Data Analyst / Data Scientist,,,,ZiMAD,https://hh.ru/employer/780623,Минск
+374,https://hh.ru/vacancy/46439665?from=vacancy_search_list&query=python,Data Scientist,,,,Itransition,https://hh.ru/employer/204511,Минск
+375,https://hh.ru/vacancy/46485115?from=vacancy_search_list&query=python,Java Software Engineer (for Nexxiot team),,,,ООО Кортлекс Бел,https://hh.ru/employer/1868959,Минск
+376,https://hh.ru/vacancy/44174183?from=vacancy_search_list&query=python,Performance Test Engineer,,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+377,https://hh.ru/vacancy/45726404?from=vacancy_search_list&query=python,Data Scientist,,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+378,https://hh.ru/vacancy/45682760?from=vacancy_search_list&query=python,.Net Back End Developer,,,,ООО СолбегСофт,https://hh.ru/employer/766249,Минск
+379,https://hh.ru/vacancy/42551953?from=vacancy_search_list&query=python,DevOps Middle Engineer,,,,Itransition,https://hh.ru/employer/204511,Минск
+380,https://hh.ru/vacancy/46478341?from=vacancy_search_list&query=python,Middle+/Senior Front-end Developer (Angular),,,,GP Solutions,https://hh.ru/employer/221933,"Минск, Молодежная"
+381,https://hh.ru/vacancy/46468566?from=vacancy_search_list&query=python,Salesforce Developer,,,,ООО Онилаб,https://hh.ru/employer/1585138,"Минск, Каменная Горка"
+382,https://hh.ru/vacancy/46486128?from=vacancy_search_list&query=python,Программист со знанием немецкого языка. Специалист по сопровождению ПО.,,,,SaM Solutions Самсолюшнс,https://hh.ru/employer/745670,Минск
+383,https://hh.ru/vacancy/46441842?from=vacancy_search_list&query=python,Automation Engineer,,,,ООО Файердом Бел,https://hh.ru/employer/4546512,"Минск, Первомайская"
+384,https://hh.ru/vacancy/46473125?from=vacancy_search_list&query=python,Head of QA department,,,,Belitsoft,https://hh.ru/employer/754682,Минск
+385,https://hh.ru/vacancy/42551962?from=vacancy_search_list&query=python,DevOps Senior Engineer,,,,Itransition,https://hh.ru/employer/204511,Минск
+386,https://hh.ru/vacancy/46440024?from=vacancy_search_list&query=python,Middle+ /Senior Full-Stack Engineer for Focusmate,,,,Satellite,https://hh.ru/employer/4405038,"Минск, Академия наук"
+387,https://hh.ru/vacancy/43275173?from=vacancy_search_list&query=python,Lead Big Data Engineer (AWS),,,,Godel Technologies Europe,https://hh.ru/employer/756805,Минск
+388,https://hh.ru/vacancy/46410967?from=vacancy_search_list&query=python,QA Automation Engineer,,,,ZiMAD,https://hh.ru/employer/780623,Минск
+389,https://hh.ru/vacancy/46427291?from=vacancy_search_list&query=python,Middle / Senior Golang Developer,,,,Godel Technologies Europe,https://hh.ru/employer/756805,Минск
+390,https://hh.ru/vacancy/45598459?from=vacancy_search_list&query=python,Tableau certified developer,,,,ЗАО Научсофт,https://hh.ru/employer/746783,Минск
+391,https://hh.ru/vacancy/46018194?from=vacancy_search_list&query=python,Product Analyst,,,,APALON,https://hh.ru/employer/592645,"Минск, Вокзальная и еще 2 "
+392,https://hh.ru/vacancy/45983283?from=vacancy_search_list&query=python,Сетевой инженер (IP транспорт),,,,МТС. Техника,https://hh.ru/employer/89798?dpt=89798-89798-06,"Минск, Парк Челюскинцев"
+393,https://hh.ru/vacancy/46403882?from=vacancy_search_list&query=python,Middle/Senior DevOps Engineer,,,,instinctools,https://hh.ru/employer/729888,Минск
+394,https://hh.ru/vacancy/46403728?from=vacancy_search_list&query=python,Middle/Senior DevOps (Microsoft Stack),,,,instinctools,https://hh.ru/employer/729888,"Минск, Молодежная"
+395,https://hh.ru/vacancy/46417527?from=vacancy_search_list&query=python,Senior Cloud Engineer/DevOps,,,,ООО Netcracker Technology Corp.,https://hh.ru/employer/2677870,"Минск, Михалово"
+396,https://hh.ru/vacancy/46439780?from=vacancy_search_list&query=python,Solution Architect,,,,Itransition,https://hh.ru/employer/204511,Минск
+397,https://hh.ru/vacancy/45610780?from=vacancy_search_list&query=python,Ruby on Rails Developer,,5000.0, USD,Social Discovery Ventures,https://hh.ru/employer/9849?dpt=sdv-9849-sdv,Минск
+398,https://hh.ru/vacancy/44367932?from=vacancy_search_list&query=python,C++ Developer,,,,ООО СК хайникс мемори солюшнс Восточная Европа,https://hh.ru/employer/1712281,"Минск, Немига"
+399,https://hh.ru/vacancy/44054133?from=vacancy_search_list&query=python,"Infrastructure Engineer (DevOps, Python) - Disaster Management",2500.0,4000.0, USD,ООО Контурные карты,https://hh.ru/employer/5134667,Минск
+400,https://hh.ru/vacancy/45741387?from=vacancy_search_list&query=python,QA Automation Engineer,,,,Инновационная компания Promwad,https://hh.ru/employer/718393,Минск
+401,https://hh.ru/vacancy/46377398?from=vacancy_search_list&query=python,Программист-преподаватель,,,,"Два Дельфина, ЧП",https://hh.ru/employer/4701667,Минск
+402,https://hh.ru/vacancy/46359726?from=vacancy_search_list&query=python,"Data Engineer, Roads",,,,ООО МэпДэйта,https://hh.ru/employer/3075451,Минск
+403,https://hh.ru/vacancy/41097681?from=vacancy_search_list&query=python,Middle / Senior Data Engineer (AWS),,,,Godel Technologies Europe,https://hh.ru/employer/756805,Минск
+404,https://hh.ru/vacancy/45710603?from=vacancy_search_list&query=python,Data Analyst (Games/Marketing),,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+405,https://hh.ru/vacancy/46337525?from=vacancy_search_list&query=python,Data engineer,,,,IBA Group,https://hh.ru/employer/42040,Минск
+406,https://hh.ru/vacancy/44844303?from=vacancy_search_list&query=python,Junior PHP Developer (Trainee / Students Lab),,,,iTechArt Group,https://hh.ru/employer/666194,"Минск, Институт Культуры"
+407,https://hh.ru/vacancy/46340927?from=vacancy_search_list&query=python,QA Engineer,,,,SaM Solutions Самсолюшнс,https://hh.ru/employer/745670,"Минск, Московская"
+408,https://hh.ru/vacancy/46487909?from=vacancy_search_list&query=python,Data Engineer,,,,LeverX International,https://hh.ru/employer/759873,Минск
+409,https://hh.ru/vacancy/41097754?from=vacancy_search_list&query=python,Middle / Senior Software Developer in Test (Automation QA Engineer),,,,Godel Technologies Europe,https://hh.ru/employer/756805,Минск
+410,https://hh.ru/vacancy/45704500?from=vacancy_search_list&query=python,Middle/Senior SRE Engineer,,,,SOFTSWISS,https://hh.ru/employer/672796,Минск
+411,https://hh.ru/vacancy/41774149?from=vacancy_search_list&query=python,BI Developer,,,,iTechArt Group,https://hh.ru/employer/666194,"Минск, Институт Культуры"
+412,https://hh.ru/vacancy/44749767?from=vacancy_search_list&query=python,Senior QA Automation Engineer,,,,Altoros Bel,https://hh.ru/employer/570938,"Минск, Кунцевщина"
+413,https://hh.ru/vacancy/46340096?from=vacancy_search_list&query=python,Веб-разработчик PHP,,,,ООО ЮнайтедТиМ,https://hh.ru/employer/2616115,"Минск, Академия наук"
+414,https://hh.ru/vacancy/38364190?from=vacancy_search_list&query=python,Junior PHP Developer,,,,iTechArt Group,https://hh.ru/employer/666194,"Минск, Институт Культуры"
+415,https://hh.ru/vacancy/43193072?from=vacancy_search_list&query=python,QA Automation Engineer (Python) - Disaster Management,1500.0,3000.0, USD,ООО Контурные карты,https://hh.ru/employer/5134667,Минск
+416,https://hh.ru/vacancy/41406106?from=vacancy_search_list&query=python,Systems Engineer,,,,ООО Вайзор Геймз,https://hh.ru/employer/958733,Минск
+417,https://hh.ru/vacancy/45190601?from=vacancy_search_list&query=python,IOS (Swift) Developer,,,,СофтЭфИкс,https://hh.ru/employer/750398,"Минск, Московская"
+418,https://hh.ru/vacancy/46300039?from=vacancy_search_list&query=python,Инженер-программист,,,,ООО ЮВР,https://hh.ru/employer/3962981,Минск
+419,https://hh.ru/vacancy/46300031?from=vacancy_search_list&query=python,Software Engineer,,,,ООО ЮВР,https://hh.ru/employer/3962981,Минск
+420,https://hh.ru/vacancy/46270276?from=vacancy_search_list&query=python,Senior/Tech Lead QA Automation Engineer (Python),,,,Belitsoft,https://hh.ru/employer/754682,Минск
+421,https://hh.ru/vacancy/46303841?from=vacancy_search_list&query=python,Full stack developer,,,,Инновационная компания Promwad,https://hh.ru/employer/718393,Минск
+422,https://hh.ru/vacancy/46442391?from=vacancy_search_list&query=python,DevOps,1000.0,2000.0, USD,ООО Белко Технолоджис,https://hh.ru/employer/5113805,"Минск, Немига"
+423,https://hh.ru/vacancy/46302510?from=vacancy_search_list&query=python,C Developer (сетевые технологии),,,,Инновационная компания Promwad,https://hh.ru/employer/718393,Минск
+424,https://hh.ru/vacancy/46274743?from=vacancy_search_list&query=python,Automation QA Engineer,,,,Scopic Software,https://hh.ru/employer/1234509,Минск
+425,https://hh.ru/vacancy/46269266?from=vacancy_search_list&query=python,DevOps engineer,,,,ООО Netcracker Technology Corp.,https://hh.ru/employer/2677870,"Минск, Михалово"
+426,https://hh.ru/vacancy/46247423?from=vacancy_search_list&query=python,Data Engineer,,,,Itransition,https://hh.ru/employer/204511,Минск
+427,https://hh.ru/vacancy/46290563?from=vacancy_search_list&query=python,Системный инженер,,,,Itransition,https://hh.ru/employer/204511,Минск
+428,https://hh.ru/vacancy/46261053?from=vacancy_search_list&query=python,Flutter engineer / developer (программист),,,,ООО Ниблсофт,https://hh.ru/employer/2314171,"Минск, Октябрьская"
+429,https://hh.ru/vacancy/46522608?from=vacancy_search_list&query=python,Senior DevOps Engineer,,,,ООО IDT Technologies,https://hh.ru/employer/3636656,Минск
+430,https://hh.ru/vacancy/46246407?from=vacancy_search_list&query=python,DevOps Engineer,,,,Синезис,https://hh.ru/employer/653228,"Минск, Площадь Победы и еще 1 "
+431,https://hh.ru/vacancy/46265313?from=vacancy_search_list&query=python,IT Deployment Cloud Engineer,,,,ООО Netcracker Technology Corp.,https://hh.ru/employer/2677870,"Минск, Михалово"
+432,https://hh.ru/vacancy/46262136?from=vacancy_search_list&query=python,C++ Game Developer,,,,Talents In Games,https://hh.ru/employer/4106083,Минск
+433,https://hh.ru/vacancy/46254420?from=vacancy_search_list&query=python,Senior Full-stack developer,,,,Altoros Bel,https://hh.ru/employer/570938,"Минск, Кунцевщина"
+434,https://hh.ru/vacancy/46249290?from=vacancy_search_list&query=python,Middle DevOps / SaaS Ops Engineer,3000.0,3500.0, USD,КА Натальи Зотовой,https://hh.ru/employer/141547,Минск
+435,https://hh.ru/vacancy/46265360?from=vacancy_search_list&query=python,PaaS Systems Engineer,,,,ООО Netcracker Technology Corp.,https://hh.ru/employer/2677870,"Минск, Михалово"
+436,https://hh.ru/vacancy/46265412?from=vacancy_search_list&query=python,IT Group Manager,,,,ООО Netcracker Technology Corp.,https://hh.ru/employer/2677870,"Минск, Михалово"
+437,https://hh.ru/vacancy/46275087?from=vacancy_search_list&query=python,Специалист в отдел рисков розничного кредитования,,,,"ЗАО МТБанк, BACK-OFFICE",https://hh.ru/employer/777735?dpt=777735-777735-back,"Минск, Институт Культуры"
+438,https://hh.ru/vacancy/46246430?from=vacancy_search_list&query=python,Senior DevOps Engineer,,,,Belitsoft,https://hh.ru/employer/754682,Минск
+439,https://hh.ru/vacancy/46247348?from=vacancy_search_list&query=python,Cloud DevOps Tech Lead,,,,Belitsoft,https://hh.ru/employer/754682,Минск
+440,https://hh.ru/vacancy/46247348?from=vacancy_search_list&query=python,Cloud DevOps Tech Lead,,,,Belitsoft,https://hh.ru/employer/754682,Минск
+441,https://hh.ru/vacancy/46302040?from=vacancy_search_list&query=python,Senior Backend Software Engineer /Python/,,,,InData Labs / ИнДата Лабс,https://hh.ru/employer/727705,Минск
+442,https://hh.ru/vacancy/46496825?from=vacancy_search_list&query=python,QA Engineer,120000.0,, руб.,STC-Finance,https://hh.ru/employer/5555122,Минск
+443,https://hh.ru/vacancy/46487763?from=vacancy_search_list&query=python,Менеджер продаж,280.0,1000.0, USD,Skyeng,https://hh.ru/employer/1122462,Минск
+444,https://hh.ru/vacancy/46392695?from=vacancy_search_list&query=python,Product Analyst,,,,ООО Плейджендари Девелопмент,https://hh.ru/employer/1463256,Минск
+445,https://hh.ru/vacancy/46487806?from=vacancy_search_list&query=python,Middle Data Scientist,,,,LeverX International,https://hh.ru/employer/759873,Минск
+446,https://hh.ru/vacancy/47050170?from=vacancy_search_list&query=python,QA Engineer (Team Lead),,,,УП ВРТЭК,https://hh.ru/employer/2698929,Минск
+447,https://hh.ru/vacancy/47034525?from=vacancy_search_list&query=python,Специалист по кадастру и геоинформационным системам (ГИС),1300.0,, бел. руб.,ГУП Национальное кадастровое агентство,https://hh.ru/employer/1042312,Минск
+448,https://hh.ru/vacancy/46131221?from=vacancy_search_list&query=python,Middle С++ Developer,,,,ООО Дуал Лаб Бел,https://hh.ru/employer/2645886,Минск
+449,https://hh.ru/vacancy/46828081?from=vacancy_search_list&query=python,C/C++ Engineer (Netgear),,,,ООО ИТС Партнёр,https://hh.ru/employer/797558,Минск
+450,https://hh.ru/vacancy/46823820?from=vacancy_search_list&query=python,Backend QA Manual Engineer (Product Company),,,,Profitero,https://hh.ru/employer/1190203,"Минск, Немига"
+451,https://hh.ru/vacancy/46813679?from=vacancy_search_list&query=python,Junior c# developer,,,,ООО Продуктлаб,https://hh.ru/employer/5494721,Минск
+452,https://hh.ru/vacancy/46818094?from=vacancy_search_list&query=python,UE4 Developer C++/Blueprint,,,,ООО СториМод,https://hh.ru/employer/2592198,"Минск, Парк Челюскинцев"
+453,https://hh.ru/vacancy/46690511?from=vacancy_search_list&query=python,Программист встраиваемых систем (Embedded Developer),,,,ООО Спарк Лаб,https://hh.ru/employer/4420449,Минск
+454,https://hh.ru/vacancy/45969639?from=vacancy_search_list&query=python,"Преподаватель компьютерных курсов для детей и подростков в ""Детскую Академию ШАГ""",,,,АЙТИ ШАГ,https://hh.ru/employer/1310922,"Минск, Купаловская и еще 1 "
+455,https://hh.ru/vacancy/46786622?from=vacancy_search_list&query=python,AI Scientist,,,,ЗАО ОКСАДЖАЙЛ,https://hh.ru/employer/4991825,Минск
+456,https://hh.ru/vacancy/46673811?from=vacancy_search_list&query=python,Lead DevOps Engineer,,,,ООО Netcracker Technology Corp.,https://hh.ru/employer/2677870,"Минск, Михалово"
+457,https://hh.ru/vacancy/46646490?from=vacancy_search_list&query=python,Специалист (Аналитик данных),,,,ООО Индустрия Инноваций,https://hh.ru/employer/4097647,Минск
+458,https://hh.ru/vacancy/45828582?from=vacancy_search_list&query=python,DevOps Engineer (Middle/Senior),,,,УП ДэйтаМола,https://hh.ru/employer/2633043,"Минск, Уручье"
+459,https://hh.ru/vacancy/46485010?from=vacancy_search_list&query=python,DevOps Engineer,,,,ЕОН ГЕЙМС,https://hh.ru/employer/1194864,"Минск, Московская"
+460,https://hh.ru/vacancy/46461113?from=vacancy_search_list&query=python,Junior Data Scientist,,,,"EPAM Systems, Inc.",https://hh.ru/employer/632462,Минск
+461,https://hh.ru/vacancy/46473766?from=vacancy_search_list&query=python,Medical Data Analyst / Медицинский аналитик,,,,ООО Одиссеус Дата Сервисес,https://hh.ru/employer/4424273,Минск
+462,https://hh.ru/vacancy/46446140?from=vacancy_search_list&query=python,Middle / Senior DevOps Engineer,,,,ArasCorp,https://hh.ru/employer/3697407,"Минск, Первомайская и еще 1 "
+463,https://hh.ru/vacancy/46567711?from=vacancy_search_list&query=python,Инженер-физик,,,,VPI Development Center/ВиПиАй Девелопмент Центр,https://hh.ru/employer/630826,Минск
+464,https://hh.ru/vacancy/46405263?from=vacancy_search_list&query=python,Инженер технической поддержки,,,,ООО ActivePlatform,https://hh.ru/employer/2710152,Минск
+465,https://hh.ru/vacancy/46335688?from=vacancy_search_list&query=python,Full-stack .NET Core/JS Software Engineer (Junior/Middle),500.0,2500.0, USD,ООО Центория Софт,https://hh.ru/employer/2015058,Минск
+466,https://hh.ru/vacancy/42433715?from=vacancy_search_list&query=python,"Front End Engineer (Maps, React, TypeScript) - Disaster Management",2500.0,4000.0, USD,ООО Контурные карты,https://hh.ru/employer/5134667,Минск
+467,https://hh.ru/vacancy/46249391?from=vacancy_search_list&query=python,Web-разработчик,,,,РЭД маркетинг,https://hh.ru/employer/1307367,Минск
+468,https://hh.ru/vacancy/46244410?from=vacancy_search_list&query=python,Middle/Senior Frontend Developer,,,,ООО Экзафт,https://hh.ru/employer/4024114,"Минск, Площадь Якуба Коласа"
