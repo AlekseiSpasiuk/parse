@@ -1,3 +1,4 @@
+import json
 from bs4 import BeautifulSoup as bs
 import requests
 import pandas as pd
@@ -6,7 +7,7 @@ def transform_price(price):
     import re
     if price:
         out = list(map(lambda a: int(a), re.findall(r'\d+', price)))
-        cur = price.split(str(out[-1]))[-1]
+        cur = price.split(str(out[-1]))[-1].strip()
         if len(out) < 2:
             out.append(None)
             if "до" in price:
@@ -68,4 +69,5 @@ while(cont):
 
 df = pd.DataFrame(out_bd)
 df.to_csv(f"./vacancy_{qtext}.csv")
-df.to_json(f"./vacancy_{qtext}.json")
+with open(f"./vacancy_{qtext}.json","w") as f:
+    json.dump(out_bd, f)
